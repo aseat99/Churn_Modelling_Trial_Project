@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore joblib model files
+*.joblib
+
+# Ignore datasets
+*.csv
+
